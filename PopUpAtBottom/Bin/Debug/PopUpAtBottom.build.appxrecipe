@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-FL80BAP</Machine>
+    <WindowsUser>###</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>12693ca9-2e6f-485b-a1b1-65e7b5b7bcec</PackageIdentityName>
+    <IntermediateOutputPath>D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Bin\Debug\PopUpAtBottom.dll">
+      <PackagePath>PopUpAtBottom.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DevResources\Sample Project%28WP%29\git\PopUpAtBottom\PopUpAtBottom\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

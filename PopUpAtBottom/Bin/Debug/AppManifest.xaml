@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="PopUpAtBottom" EntryPointType="PopUpAtBottom.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="PopUpAtBottom" Source="PopUpAtBottom.dll" />
+  </Deployment.Parts>
+</Deployment>
